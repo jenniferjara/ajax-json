@@ -1,0 +1,20 @@
+{
+  "name": "ej-json",
+  "version": "1.0.0",
+  "description": "ejercicio Json",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "jquery",
+    "espress\u001b[D\u001b[D\u001b[D\u001b[D\u001b[x"
+  ],
+  "author": "Jennifer Jara <lisbet.jara@gmail.com>",
+  "license": "ISC"
+}

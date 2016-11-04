@@ -1,0 +1,20 @@
+{
+	"nombre": "Gustavo Cerati",
+	"fechaNac": "11 de agosto de 1959",
+	"lugarNac": "Buenos Aires",
+	"geneMus": "Rock",
+	"canciones": [
+		"Puente",
+		"Fuerza Natural",
+		"Cactus",
+		"Adiós",
+		"Cosas Imposibles"
+	],
+	"influencias": [
+		"The Beatles",
+		"David Bowie",
+		"Pink Floyd",
+		"Jimmy Page",
+		"Ritchie Blackmore"
+	]
+}
